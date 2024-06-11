@@ -1,0 +1,3 @@
+OUTPUT:
+Total time (for performing searches): 149.173 seconds, Time per query: 0.010 seconds
+Hits@1: 0.452, Hits@5: 0.663, Hits@10: 0.737, MRR: 0.543
